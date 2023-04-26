@@ -53,9 +53,17 @@ def fill_mask():
     print(results)
 
 
-def
+def try_to_github():
+    print("success")
+    pass
 
 
+if __name__ == '__main__':
+    sentiment_analysis()
+    zero_shot_classification()
+    text_generation()
+    text_generation_from_poem()
+    fill_mask()
 
 
 
